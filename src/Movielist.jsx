@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import Search from "./search.jsx";
+import Search from "./Search.jsx";
 import axios from "axios";
 
 export default function Movielist() {
